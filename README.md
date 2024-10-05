@@ -1,5 +1,5 @@
 
-# ameazaDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Hulse-Kmep Lab 
 
 Visit **[ameaza.github.io/hulse-kemp](https://ameaza.github.io/hulse-kemp)** 🚀
 
