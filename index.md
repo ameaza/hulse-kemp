@@ -1,7 +1,7 @@
 ---
 ---
 
-# ameazaDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Hulse-Kemp Lab is part of the USDA ARS Genomics and Bioinformatics Research Unit, we are located in the Department of Crop and Soil Sciences, North Carolina State University in Raleigh, North Carolina.
 
 
 
